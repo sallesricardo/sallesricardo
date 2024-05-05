@@ -1,7 +1,30 @@
-### Hi there 👋
+# Hi, I'm Ricardo Salles! 👋
+
+![<sallesricardo>'s Stats](https://github-readme-stats.vercel.app/api?username=<sallesricardo>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 <!--
-**sallesricardo/sallesricardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+
+## My Articles
+-->
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,arduino,aws,bash,c,debian,docker,firebase,flask,gcp,git,github,jquery,linux,mysql,nodejs,php,postgres,py,raspberry,react,ubuntu,)](https://skillicons.dev)
+
+<!--
+## 🌱 Currently Exploring
+
+## 🏆 Achievements
+
+## 📬 Get in Touch
+
+- Connect with me on [Twitter](https://twitter.com/)
+- Read more of my articles on [](https://)
+
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+-->
+
+<!--
 
 Here are some ideas to get you started:
 
@@ -14,3 +37,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
