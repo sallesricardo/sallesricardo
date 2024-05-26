@@ -1,7 +1,7 @@
 # Hi, I'm Ricardo Salles! 👋
 
-![<sallesricardo>'s Stats](https://github-readme-stats.vercel.app/api?username=sallesricardo&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
+![<sallesricardo>'s Stats](https://github-readme-stats.vercel.app/api?username=sallesricardo&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sallesricardo)
 <!--
 ## 🚀 About Me
 
@@ -9,7 +9,7 @@
 -->
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,arduino,aws,bash,c,debian,docker,firebase,flask,gcp,git,github,jquery,linux,mysql,nodejs,php,postgres,py,raspberry,react,ubuntu,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,arduino,aws,bash,c,debian,docker,firebase,flask,gcp,git,github,jquery,linux,mysql,nodejs,php,postgres,py,react,ubuntu,)](https://skillicons.dev)
 
 <!--
 ## 🌱 Currently Exploring
