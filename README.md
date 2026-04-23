@@ -11,7 +11,6 @@ Sou um desenvolvedor de software apaixonado por entender como as coisas funciona
 - 🔌 Experiência com sistemas de baixo nível e microcontroladores (**PIC, Arduino, BeagleBone Black**).
 - 🚗 Interessado em eletrônica automotiva e engenharia reversa de redes **CAN bus**.
 - 🛠️ Gosto de diagnóstico de hardware e reparo de componentes eletrônicos.
-- 🎸 Nas horas vagas, estudo alemão e curto ouvir Rammstein.
 
 ---
 
@@ -21,6 +20,7 @@ Sou um desenvolvedor de software apaixonado por entender como as coisas funciona
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### Sistemas Embarcados & Hardware
@@ -38,12 +38,6 @@ Sou um desenvolvedor de software apaixonado por entender como as coisas funciona
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sallesricardo&layout=compact&langs_count=7&theme=tokyonight" />
 </p>
 
----
-
-## 📂 Projetos em Destaque
-- **Reverse Engineering Fiat Siena Dash:** Operando o painel de um Siena 2001 via Arduino e barramento CAN.
-- **CRM para Fotógrafos:** Plataforma especializada para gestão de clientes no mercado de fotografia.
-- **Dashboard PoC:** Interface moderna utilizando Next.js e Supabase.
 
 ---
 
