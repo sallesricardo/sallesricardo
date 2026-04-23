@@ -48,4 +48,4 @@ Sou um desenvolvedor de software apaixonado por entender como as coisas funciona
 ---
 
 ## 📫 Como me encontrar
-- **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)](https://www.linkedin.com/in/ricardo-salles-92a65342/)
+- **LinkedIn:** [https://www.linkedin.com/in/ricardo-salles-92a65342/](https://www.linkedin.com/in/ricardo-salles-92a65342/)
