@@ -1,39 +1,51 @@
-# Hi, I'm Ricardo Salles! 👋
+# Olá, eu sou o Ricardo Salles! 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sallesricardo)
-<!--
-## 🚀 About Me
+### Software Developer | PC & Microcontrollers | Low-level Enthusiast
 
-## My Articles
--->
+Sou um desenvolvedor de software apaixonado por entender como as coisas funcionam "debaixo do capô", transitando entre o desenvolvimento de aplicações de alto nível e a engenharia de sistemas embarcados.
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,arduino,aws,bash,c,debian,docker,firebase,flask,gcp,git,github,jquery,linux,mysql,nodejs,php,postgres,py,react,ubuntu,)](https://skillicons.dev)
+---
 
-<!--
-## 🌱 Currently Exploring
+## 🛠️ Sobre Mim
+- 💻 Atualmente focado em arquiteturas modernas com **TypeScript, Next.js e Supabase**.
+- 🔌 Experiência com sistemas de baixo nível e microcontroladores (**PIC, Arduino, BeagleBone Black**).
+- 🚗 Interessado em eletrônica automotiva e engenharia reversa de redes **CAN bus**.
+- 🛠️ Gosto de diagnóstico de hardware e reparo de componentes eletrônicos.
+- 🎸 Nas horas vagas, estudo alemão e curto ouvir Rammstein.
 
-## 🏆 Achievements
+---
 
-## 📬 Get in Touch
+## 🚀 Tecnologias e Ferramentas
 
-- Connect with me on [Twitter](https://twitter.com/)
-- Read more of my articles on [](https://)
+### Desenvolvimento de Software
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
--->
+### Sistemas Embarcados & Hardware
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-BeagleBone-8A2BE2?style=for-the-badge&logo=beagleboneboard&logoColor=white)
 
-<!--
+---
 
-Here are some ideas to get you started:
+## 📊 Estatísticas do GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sallesricardo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sallesricardo&layout=compact&langs_count=7&theme=tokyonight" />
+</p>
 
+---
+
+## 📂 Projetos em Destaque
+- **Reverse Engineering Fiat Siena Dash:** Operando o painel de um Siena 2001 via Arduino e barramento CAN.
+- **CRM para Fotógrafos:** Plataforma especializada para gestão de clientes no mercado de fotografia.
+- **Dashboard PoC:** Interface moderna utilizando Next.js e Supabase.
+
+---
+
+## 📫 Como me encontrar
+- **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)](https://www.linkedin.com/in/ricardo-salles-92a65342/)
