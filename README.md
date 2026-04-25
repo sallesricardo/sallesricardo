@@ -7,7 +7,7 @@ Sou um desenvolvedor de software apaixonado por entender como as coisas funciona
 ---
 
 ## 🛠️ Sobre Mim
-- 💻 Atualmente focado em arquiteturas modernas com **TypeScript, Next.js e Supabase**.
+- 💻 Atualmente focado em arquiteturas modernas com **TypeScript, Next.js e Python**.
 - 🔌 Experiência com sistemas de baixo nível e microcontroladores (**PIC, Arduino, BeagleBone Black**).
 - 🚗 Interessado em eletrônica automotiva e engenharia reversa de redes **CAN bus**.
 - 🛠️ Gosto de diagnóstico de hardware e reparo de componentes eletrônicos.
